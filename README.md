@@ -1,11 +1,10 @@
-*** Olá, como vai? Boas vindas ao meu perfil! 
-
-Meu nome é Vanessa Leite, e utilizo o nome "Girliem" em todos os meus projetos, como se fosse uma marca. 
-
-Tenho 17 anos, e possuo interesse em diversas linguagens da programação, com destaque para JavaScript, HTML e CSS. Meu nível ainda é bem iniciante, mas com o tempo irei aprimorar os meus conhecimentos. 
-
-*** Você pode entrar em contato comigo: 
-
-vanessabsleite173@gmail.com 
-
-![@gir.liem](https://www.instagram.com/girl.iem/profilecard/?igsh=MXQ4eWdvdm02MDJsdg==)
+## Olá, me chamo Vanessa Leite, sou uma estudante iniciante sobre assuntos relacionados a programação!
+  
+  ##
+ 
+<div> 
+  <a href="https://instagram.com/rafaballerini" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto: vanessabsleite173@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/vanessa-leite" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+</div>
