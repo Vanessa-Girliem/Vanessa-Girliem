@@ -23,7 +23,9 @@ Sou uma estudante iniciante de diferentes linguagens de programação. Meus foco
 
 ## 📑 Editores de Código 
 
-<a href="https://scratch.mit.edu/users/Nessabsl42" target="_blank"><img src="https://img.shields.io/badge/Scratch-4D97FF?logo=scratch&logoColor=fff" target="_blank></a> [![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)](#)
+<a href="https://scratch.mit.edu/users/Nessabsl42" target="_blank"><img src="https://img.shields.io/badge/Scratch-4D97FF?logo=scratch&logoColor=fff" target="_blank"></a>
+
+[![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)](#)
 
 
 </div> 
