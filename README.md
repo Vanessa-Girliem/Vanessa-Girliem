@@ -27,3 +27,7 @@ Sou uma estudante iniciante de diferentes linguagens de programação. Meus foco
 
 
 </div> 
+
+<div> 
+
+## 🎨 Design 
