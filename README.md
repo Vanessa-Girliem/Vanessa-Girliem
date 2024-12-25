@@ -1,4 +1,4 @@
-### 👋 Olá, bem vindos ao meu perfil! :)
+# 👋 Olá, bem vindos ao meu perfil! :)
 
 Sou uma estudante iniciante de diferentes linguagens de programação. Meus focos são: HTML, CSS e JavaScript. 
  
