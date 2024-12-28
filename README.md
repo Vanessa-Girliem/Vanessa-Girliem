@@ -1,6 +1,6 @@
 # 👋 Olá, bem vindos ao meu perfil! :)
 
-Sou uma estudante iniciante de diferentes linguagens de programação. Meus focos são: HTML, CSS e JavaScript. 
+Sou uma estudante iniciante de diferentes linguagens de programação. Meus focos são: HTML, CSS e JavaScript, mas possuo interesse em aprender as outras que existem. 
  
 <div> 
   <a href="https://www.linkedin.com/in/vanessa-leite-22a28a2b1" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
