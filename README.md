@@ -3,8 +3,9 @@
 Sou uma estudante iniciante de diferentes linguagens de programação. Meus focos são: HTML, CSS e JavaScript, mas possuo interesse em aprender as outras que existem. 
  
 <div> 
-  <a href="https://www.linkedin.com/in/vanessa-leite-22a28a2b1" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href = "mailto: vanessabsleite173@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/vanessa-leite-22a28a2b1" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" target="_blank"></a> 
+  <a href = "mailto: vanessabsleite173@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "https://profile.indeed.com/?hl=pt_BR&co=BR&from=gnav-menu-homepage)"><img src="https://img.shields.io/badge/Indeed-003A9B?logo=indeed&logoColor=fff" target="_blank"></a>
   
 </div>
 
