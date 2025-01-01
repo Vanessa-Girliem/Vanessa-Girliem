@@ -4,7 +4,7 @@ Sou uma estudante iniciante de diferentes linguagens de programação. Meus foco
  
 <div> 
 
-## Contato:
+## 📫 Contato:
  
   <a href="https://www.linkedin.com/in/vanessa-leite-22a28a2b1" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" target="_blank"></a> 
   <a href = "mailto: vanessabsleite173@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" target="_blank"></a>
@@ -16,7 +16,7 @@ Sou uma estudante iniciante de diferentes linguagens de programação. Meus foco
 
 ## 👩‍💻 Linguagens de Programação:
 
-[![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff)](#) [![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#) 
+<img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff" target="_blank">  [![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#) 
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#) 
 
 
