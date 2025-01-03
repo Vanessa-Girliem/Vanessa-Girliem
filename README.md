@@ -1,8 +1,6 @@
 # 👋 Olá, bem vindos ao meu perfil! :)
 
 Sou uma estudante iniciante de diferentes linguagens de programação. Meus focos são: HTML, CSS e JavaScript, mas possuo interesse em aprender as outras que existem. 
-
-![](https://tenor.com/pt-BR/view/south-park-butters-sit-dance-moves-waiting-gif-3621496130524755368)
  
 <div> 
 
