@@ -49,4 +49,7 @@ Me chamo Vanessa, tenho 17 anos e atualmente sou uma estudante. Irei iniciar o 3
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=falso&vCenter=falso&repeat=verdadeiro&random=falso&width=435&lines=%F0%9F%93%9A+Estudo+atrav%C3%A9s%3A+)](https://git.io/typing-svg) 
 
+[![Khan Academy](https://img.shields.io/badge/Khan%20Academy-14BF96?logo=khanacademy&logoColor=fff)](#) [![Medium](https://img.shields.io/badge/Medium-black?logo=medium&logoColor=white)](#) 
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](#) [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](#) [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white)](#) [![Notion](https://img.shields.io/badge/Notion-000?logo=notion&logoColor=fff)](#) [![Behance](https://img.shields.io/badge/Behance-0054F7?logo=behance&logoColor=white)](#)
+
 </div>
