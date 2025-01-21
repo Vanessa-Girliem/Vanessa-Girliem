@@ -1,6 +1,8 @@
 # 👋 Olá, bem vindos ao meu perfil! :)
 
 Sou uma estudante iniciante de diferentes linguagens de programação. Meus focos são: HTML, CSS e JavaScript, mas possuo interesse em aprender as outras que existem. 
+
+![Vanessa's GitHub stats](https://github-readme-stats.vercel.app/api?username=vanessa-girliem&show_icons=true&theme=dark)
  
 <div> 
 
@@ -16,7 +18,7 @@ Sou uma estudante iniciante de diferentes linguagens de programação. Meus foco
 
 ## 👩‍💻 Linguagens de Programação:
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vanessa-girliem&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vanessa-girliem&icons=true&theme=dark&layout=compact)
 
 [![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff)](#)  [![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#) 
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#) 
