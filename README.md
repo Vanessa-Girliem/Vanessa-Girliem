@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=falso&vCenter=falso&repeat=verdadeiro&random=falso&width=435&lines=Ol%C3%A1!+Bem-vindos+ao+meu+perfil+%3A))](https://git.io/typing-svg)
 
-Me chamo Vanessa, tenho 17 anos e atualmente sou uma estudante. Irei iniciar o 3º ano do Ensino Médio, e estou estudando linguagens focadas no Fron-End. 
+Me chamo Vanessa, tenho 17 anos e atualmente sou uma estudante. Irei iniciar o 3º ano do Ensino Médio, e estou estudando linguagens focadas no Front-End. 
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Vanessa-Girliem&theme=dark&hide_border=falso&short_numbers=falso)](https://git.io/streak-stats)
  
