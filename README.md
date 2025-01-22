@@ -2,7 +2,7 @@
 
 Me chamo Vanessa, tenho 17 anos e atualmente sou uma estudante. Irei iniciar o 3º ano do Ensino Médio, e estou estudando linguagens focadas no Front-End. 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Vanessa-Girliem&theme=dark&hide_border=falso&short_numbers=falso)](https://git.io/streak-stats)
+![Vanessa's GitHub stats](https://github-readme-stats.vercel.app/api?username=vanessa-girliem&theme=dark&show_icons=true)
  
 <div> 
 
