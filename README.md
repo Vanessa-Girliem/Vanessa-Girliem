@@ -1,4 +1,4 @@
-[![Introdução](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=falso&vCenter=falso&repeat=verdadeiro&random=falso&width=435&lines=Ol%C3%A1!+Bem-vindos+ao+meu+perfil+%3A))](https://git.io/typing-svg)
+<h1>👋 Olá! Bem-vindos ao meu perfil!</h1>
 
 Me chamo Vanessa, tenho 17 anos e atualmente sou uma estudante. Irei iniciar o 3º ano do Ensino Médio, e estou estudando linguagens focadas no Front-End. 
 
@@ -24,7 +24,9 @@ Me chamo Vanessa, tenho 17 anos e atualmente sou uma estudante. Irei iniciar o 3
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#) ![Markdown](https://img.shields.io/badge/Markdown-%23000000?style=flat&logo=Markdown)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vanessa-girliem&icons=true&theme=dark&layout=compact)
+![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=vanessa-girliem&icons=true&theme=dark&layout=compact)
+
+<code>🎯 Possuo interesse em aprender: </code>
 
 </div> 
 
