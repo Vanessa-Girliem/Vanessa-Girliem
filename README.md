@@ -1,6 +1,10 @@
 <h1>👋 Olá! Bem-vindos ao meu perfil!</h1>
 
-Me chamo Vanessa, tenho 17 anos e atualmente sou uma estudante. Irei iniciar o 3º ano do Ensino Médio, e estou estudando linguagens focadas no Front-End. 
+<p>Me chamo Vanessa, tenho 17 anos e atualmente estou focando nos meus estudos. Tenho muito interesse pela área <strong>Criativa</strong>, e gostaria de me especializar como desenvolvedora Front-End e UX Designer. </p>
+
+<p>Iniciei os meus estudos de forma independente somente neste ano, no entanto, alguns respositórios possuem projetos que desenvolvi na escola através da plataforma Alura Start. </p>
+
+<p>Estou buscando aprender mais sobre a lógica da programação, ao mesmo que tempo que prático HTML e CSS. Futuramente, planejo aprender melhor sobre o JavaScript e começar a estudar o React, e outros frameworks. </p>
 
 ![Vanessa's GitHub stats](https://github-readme-stats.vercel.app/api?username=vanessa-girliem&theme=dark&show_icons=true)
  
