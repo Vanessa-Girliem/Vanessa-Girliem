@@ -30,8 +30,13 @@ Me chamo Vanessa, tenho 17 anos e atualmente sou uma estudante. Irei iniciar o 3
 <ul>
  <li>Linguagens:</li>
  <p></p>
+ 
+ [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#) [![JSON](https://img.shields.io/badge/JSON-000?logo=json&logoColor=fff)](#) [![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)](#)
+ 
  <li>Frameworks:</li>
  <p></p>
+ 
+ [![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?logo=angular&logoColor=white)](#) [![Django](https://img.shields.io/badge/Django-%23092E20.svg?logo=django&logoColor=white)](#) [![Flask](https://img.shields.io/badge/Flask-000?logo=flask&logoColor=fff)](#) [![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)](#) [![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#) [![jQuery](https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=fff)](#)
 </ul>
 
 </div> 
