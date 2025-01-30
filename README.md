@@ -1,6 +1,6 @@
 <h1>👋 Olá! Bem-vindos ao meu perfil!</h1>
 
-<p>Me chamo Vanessa, tenho 17 anos e atualmente estou focando nos meus estudos. Tenho muito interesse pela área <strong>Criativa</strong>, e gostaria de me especializar como desenvolvedora Front-End e UX Designer. </p>
+<p>Me chamo Vanessa, tenho 17 anos e atualmente estou focando nos meus estudos. Tenho muito interesse pela área <strong>Criativa</strong>, e gostaria de me especializar como desenvolvedora <strong>Front-End e UX Designer.</strong></p>
 
 <p>Iniciei os meus estudos de forma independente somente neste ano, no entanto, alguns respositórios possuem projetos que desenvolvi na escola através da plataforma Alura Start. </p>
 
