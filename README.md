@@ -27,6 +27,12 @@ Me chamo Vanessa, tenho 17 anos e atualmente sou uma estudante. Irei iniciar o 3
 ![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=vanessa-girliem&icons=true&theme=dark&layout=compact)
 
 <code>🎯 Possuo interesse em aprender: </code>
+<ul>
+ <li>Linguagens:</li>
+ <p></p>
+ <li>Frameworks:</li>
+ <p></p>
+</ul>
 
 </div> 
 
