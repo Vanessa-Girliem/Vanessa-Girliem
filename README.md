@@ -29,11 +29,8 @@
 
 [![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff)](#)  [![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#) 
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#) ![Markdown](https://img.shields.io/badge/Markdown-%23000000?style=flat&logo=Markdown)
-
-<section align="center">
  
 ![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=vanessa-girliem&icons=true&theme=dark&layout=compact)
-</section>
 
 <code>🎯 Possuo interesse em aprender: </code>
 <ul>
