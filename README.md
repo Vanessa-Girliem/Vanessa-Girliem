@@ -2,7 +2,7 @@
 
 <p>Me chamo Vanessa, tenho 17 anos e atualmente estou focando nos meus estudos. Tenho muito interesse pela área <strong>Criativa</strong>, e gostaria de me especializar como desenvolvedora <strong>Front-End e UX Designer.</strong></p>
 
-<p>Iniciei os meus estudos de forma independente somente neste ano, no entanto, <strong>alguns respositórios possuem projetos que desenvolvi na escola</strong> através da plataforma Alura Start. </p>
+<p>Iniciei os meus estudos de forma independente somente neste ano, no entanto, <strong>alguns respositórios possuem projetos que desenvolvi na escola</strong> através da plataforma <a href="https://www.startalura.com.br/">Alura Start</a>.</p>
 
 <p>Estou buscando aprender mais sobre a lógica da programação, ao mesmo que tempo que prático HTML e CSS. Futuramente, planejo aprender melhor sobre o JavaScript e começar a estudar o React, e outros frameworks. </p>
 
