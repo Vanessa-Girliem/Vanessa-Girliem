@@ -1,6 +1,6 @@
 <h1>👋 Olá! Bem-vindos ao meu perfil!</h1>
 
-<p>Me chamo Vanessa, tenho 17 anos e atualmente estou focando nos meus estudos. Tenho muito interesse pela área <strong>Criativa</strong>, e gostaria de me especializar como desenvolvedora <strong>Front-End e UX Designer.</strong></p>
+<p>Me chamo Vanessa, tenho 19 anos e atualmente estou focando nos meus estudos. Tenho muito interesse pela área <strong>Criativa</strong>, e gostaria de me especializar como desenvolvedora <strong>Front-End e UX Designer.</strong></p>
 
 <p>Iniciei os meus estudos de forma independente somente neste ano, no entanto, <strong>alguns respositórios possuem projetos que desenvolvi na escola</strong> através da plataforma <a href="https://www.startalura.com.br/">Alura Start</a>.</p>
 
@@ -15,7 +15,7 @@
 
 [![Contato](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=falso&vCenter=falso&repeat=verdadeiro&random=falso&width=435&lines=%F0%9F%93%AB+Contato)](https://git.io/typing-svg)
  
-  <a href="https://www.linkedin.com/in/vanessa-leite-22a28a2b1" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/vanessaleite18" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" target="_blank"></a> 
   <a href = "mailto: vanessabsleite173@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" target="_blank"></a>
   <a href = "https://profile.indeed.com/?hl=pt_BR&co=BR&from=gnav-menu-homepage)"><img src="https://img.shields.io/badge/Indeed-003A9B?logo=indeed&logoColor=fff" target="_blank"></a>
   <a href = "https://www.glassdoor.com.br/member/profile" target="_blank"><img src="https://img.shields.io/badge/Glassdoor-%2300A162?style=flat&logo=Glassdoor&logoColor=%23b2fd9c" target="_blank"></a>
